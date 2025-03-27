@@ -19,8 +19,8 @@ body {
 }
 #hero {
   position: relative;
-  background-image: url(assets/Rectangle\ 4.png);
-  background-size: 30%;
+  background-image: url(assets/Rectangle\ 1.png);
+  background-size: 37%;
   background-repeat: no-repeat;
   display: flex;
   align-items: start;
@@ -147,6 +147,10 @@ body {
   margin: 1rem;
   transform: rotate(45deg);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-title {
+  margin-bottom: 20%;
 }
 
 .diamond-content {
@@ -366,7 +370,7 @@ body {
 
 .testimonial-text {
   font-size: 1.4rem;
-  line-height: 1.7;
+  line-height: 1.2;
   color: #6c757d;
   margin-bottom: 1.5rem;
 }
