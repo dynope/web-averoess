@@ -433,3 +433,7 @@ body {
     justify-content: center;
   }
 }
+
+#menu-utama a {
+  color: #333;
+}
